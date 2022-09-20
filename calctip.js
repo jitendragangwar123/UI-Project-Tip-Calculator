@@ -77,7 +77,6 @@ class calc {
 }
 //Object of class is created, to access the members of the class
 let c = new calc();
-
 //Onclick, funtion will be called and execution will takes place
 calculate.addEventListener('click', c.calculation);
 
